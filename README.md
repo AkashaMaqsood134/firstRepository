@@ -1,4 +1,4 @@
 # firstRepository
 This is my first git repository
-<br>
-Author - Akasha Maqsood
+<br> 
+Author - Akasha Maqsood (CUI)
